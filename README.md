@@ -13,7 +13,6 @@
 ## Tecnologias Empregadas
 
 - **Flet**: Biblioteca utilizada para a criação da interface do chat e gerenciamento do estado da aplicação.
-- **JavaScript**: Linguagem de programação usada para lógica do chat.
 
 ## Guia de Implementação
 
