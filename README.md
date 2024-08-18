@@ -6,8 +6,6 @@
 
 ## Objetivo do Projeto
 
-Este projeto é um **chat em tempo real** que permite que os usuários entrem em um chat, enviem mensagens e vejam atualizações em tempo real.
-
 - **Desenvolver um chat interativo** com Flet, onde os usuários podem se comunicar instantaneamente.
 - **Utilizar Pub/Sub** para gerenciar a comunicação entre os usuários.
 - **Renderizar mensagens em tempo real** no chat.
@@ -33,9 +31,9 @@ Este projeto é um **chat em tempo real** que permite que os usuários entrem em
 
 ## Funcionalidades
 
+- **Popup de Entrada**: Solicita o nome do usuário antes de entrar no chat.
 - **Campo de Mensagem**: Permite que os usuários digitem e enviem mensagens.
 - **Botão de Enviar**: Envia a mensagem digitada para o chat.
-- **Popup de Entrada**: Solicita o nome do usuário antes de entrar no chat.
 
 ## Contribuição
 
@@ -49,4 +47,4 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 ## Nota
 
-Este projeto é para fins educacionais. Sinta-se livre para explorar e adaptar.
+Este projeto é para fins educacionais, baseado em uma aula da **Hashtag**. Sinta-se livre para explorar e adaptar.
