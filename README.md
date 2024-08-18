@@ -1,7 +1,7 @@
 # Chat em Tempo Real
 
 <div align="center">
-  <img src=https://i.pinimg.com/originals/54/2c/8b/542c8b091f6c1bc3a8a1c33a71466521.jpg alt="Imagem do Chat" width="800" height="500"/>
+  <img src=https://i.pinimg.com/originals/54/2c/8b/542c8b091f6c1bc3a8a1c33a71466521.jpg alt="Imagem do Chat" width="800" height="400"/>
 </div>
 
 ## Objetivo do Projeto
