@@ -1,7 +1,7 @@
 # Hashtag: Chat em Tempo Real
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/54/2c/8b/542c8b091f6c1bc3a8a1c33a71466521.jpg" alt="Imagem do Chat" width="700" height="400"/>
+  <img src="https://i.pinimg.com/originals/54/2c/8b/542c8b091f6c1bc3a8a1c33a71466521.jpg" alt="Python Wallpaper"/>
 </div>
 
 ## Objetivo do Projeto
@@ -46,4 +46,4 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 ## Nota
 
-Este projeto é para fins educacionais, baseado em uma aula da **Hashtag**. Sinta-se livre para explorar e adaptar.
+Este projeto foi baseado em uma aula da **Hashtag**. Sinta-se livre para explorar e adaptar.
