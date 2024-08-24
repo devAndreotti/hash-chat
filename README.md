@@ -34,10 +34,6 @@
 - **Campo de Mensagem**: Permite que os usuários digitem e enviem mensagens.
 - **Botão de Enviar**: Envia a mensagem digitada para o chat.
 
-## Visualize o Projeto
-
-Você pode visualizar o projeto online através deste [link](https://devandreotti.github.io/cubes-background/).
-
 ## Contribuição
 
 Contribuições são bem-vindas! Para contribuir, siga estas etapas:
