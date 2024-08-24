@@ -1,7 +1,7 @@
 # Hashtag: Chat em Tempo Real
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/54/2c/8b/542c8b091f6c1bc3a8a1c33a71466521.jpg" alt="Python Wallpaper"/>
+  <img src="Pythno.jpg" alt="Python Banner"/>
 </div>
 
 ## Objetivo do Projeto
