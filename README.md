@@ -29,12 +29,6 @@
 4. **Envie Mensagens**
    - A função `enviar_mensagem` envia uma mensagem para todos os usuários quando o botão é clicado ou o campo de texto é submetido.
 
-## Funcionalidades
-
-- **Popup de Entrada**: Solicita o nome do usuário antes de entrar no chat.
-- **Campo de Mensagem**: Permite que os usuários digitem e enviem mensagens.
-- **Botão de Enviar**: Envia a mensagem digitada para o chat.
-
 ## Contribuição
 
 Contribuições são bem-vindas! Para contribuir, siga estas etapas:
