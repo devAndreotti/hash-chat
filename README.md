@@ -1,7 +1,8 @@
+<!-- Projeto Finalizado -->
 # Hashtag: Chat em Tempo Real
 
 <div align="center">
-  <img src="./Python.jpg" alt="Python Banner"/>
+  <img src="./Python.jpeg" alt="Python Banner"/>
 </div>
 
 ## Objetivo do Projeto
