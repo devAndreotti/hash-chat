@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# Hashtag: Chat em Tempo Real
+# 💬 Hashtag: Chat em Tempo Real
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
