@@ -25,7 +25,7 @@
 1. **Certifique-se que Flet Está Instalado**
    - Execute `pip install flet` para instalar a biblioteca Flet, se necessário.
 2. **Inicialize o Projeto**
-   - No terminal, execute `python nome_do_arquivo.py` para iniciar o projeto.
+   - No terminal, execute `chat.py` para iniciar o projeto.
 3. **Inscreva-se para Receber Mensagens**
    - A função `enviar_mensagem_tunel` processa e adiciona mensagens ao chat quando publicadas.
 4. **Envie Mensagens**
