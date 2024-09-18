@@ -41,3 +41,8 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 ## 📝 Nota
 Este projeto foi baseado em uma aula da **Hashtag**. Sinta-se livre para explorar e adaptar.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
