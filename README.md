@@ -45,4 +45,9 @@ Este projeto foi baseado em uma aula da **Hashtag**. Sinta-se livre para explora
 <br>
 
 ---
-<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
+
+<p align="center">
+  Desenvolvido por <a href="https://github.com/seuUsuario">Ricardo Andreotti Gonçalves</a> 🧑‍💻
+</p>
+
+---
